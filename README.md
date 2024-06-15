@@ -5,7 +5,7 @@
 - [Varování](#varování)
 - [Batch](#batch)
 ### Vítám vás na mém GitHubu ###
-Zde v úložišti Soubory naleznete složky s názvy videí na mém YT kanále.  
+Zde ve složce Soubory naleznete složky s názvy videí na mém YT kanále.  
 Pokud jsi chcete vyzkoušet nějaký ten soubor co jsem použil ve videu nebo jsem ho sem nahrál tak máte možnost.  
 Také jsi od všech souborů můžete zobrazit zdrojový kód a *zdarma stáhnout*
 
@@ -14,6 +14,6 @@ Některé soubory jsou malware, který dokáže zníčit váš počítač!!!  *M
 Pokuď nějaký soubor poškodí váš počítač dome či ve škole, *NEBERU ŽÁDNOU ZODOPVĚDNOST ZA PŘÍPADNÉ ŠKODY*
 
 ### Batch ###
-V úložišti Batch jsou soubory z programovacího jazyka Batch.  Pokud jse chcete naučit Batch tak je tato složka přímo pro vás
+Ve složce Batch jsou soubory z programovacího jazyka Batch.  Pokud jse chcete naučit Batch tak je tato složka přímo pro vás
 
 
