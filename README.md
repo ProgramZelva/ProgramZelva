@@ -3,6 +3,7 @@
 ### Obsah: ###
 - [Vítám vás na mém githubu](#vítám-vás-na-mém-githubu)
 - [Varování](#varování)
+- [Batch](#batch)
 ### Vítám vás na mém GitHubu ###
 Zde ve složce Soubory naleznete složky s názvy videí na mém YT kanále.  
 Pokud jsi chcete vyzkoušet nějaký ten soubor co jsem použil ve videu nebo jsem ho sem nahrál tak máte možnost.  
