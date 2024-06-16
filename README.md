@@ -10,7 +10,7 @@ Pokud jsi chcete vyzkoušet nějaký ten soubor co jsem použil ve videu nebo js
 Také jsi od všech souborů můžete zobrazit zdrojový kód a *zdarma stáhnout*
 
 ### Varování ###
-Některé soubory jsou malware, který dokáže zníčit váš počítač!!!  *MALWARE NENÍ HRAČKA*  Pokud jsi chcete i jej vyzkoušet tak vám radím na Virtuálním počítači.  
+Některé soubory jsou malware, který dokáže zníčit váš počítač!!!  *MALWARE NENÍ HRAČKA* Pokud jsi chcete i jej vyzkoušet tak vám radím na Virtuálním počítači.  
 Pokuď nějaký soubor poškodí váš počítač dome či ve škole, *NEBERU ŽÁDNOU ZODOPVĚDNOST ZA PŘÍPADNÉ ŠKODY*
 
 ### Batch ###
